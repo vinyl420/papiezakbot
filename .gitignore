@@ -1,0 +1,16 @@
+# Pliki zależności
+node_modules/
+package-lock.json
+
+# Pliki dziennika
+logs/
+*.log
+report*.json
+
+# Pliki konfiguracji
+.env
+config.json
+command-leaderboard.json
+eng.traineddata
+
+# Komendy w trakcie opracowywania
